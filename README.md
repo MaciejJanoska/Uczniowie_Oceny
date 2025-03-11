@@ -1,4 +1,4 @@
-# 📚 Dziennik ucznia – Projekt Java
+# Dziennik ucznia – Projekt Java
 
 Prosta aplikacja konsolowa w języku Java,
 która umożliwia dodawanie ocen ucznia,
